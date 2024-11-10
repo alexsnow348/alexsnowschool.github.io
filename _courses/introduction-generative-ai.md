@@ -62,6 +62,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="qrhIdRJsdrI" provider="youtube" %}
 
+## Week 3
+
+### Fine-Tuning using OpenAI Models and Services
+
+{% include video id="QmqM0pIjYgM" provider="youtube" %}
 
 ## Reference List
 
