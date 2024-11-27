@@ -48,6 +48,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="MtBrEhebnO0" provider="youtube" %}
 
+### LLM for Synthetic data, and Why Rust
+
+{% include video id="SwQ3Mgv820o" provider="youtube" %}
+
+
 
 ## Reference List
 
