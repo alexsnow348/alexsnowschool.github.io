@@ -52,7 +52,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="SwQ3Mgv820o" provider="youtube" %}
 
+## Week 2
 
+### Using Local LLMs from LLamafile to Whisper.cpp
+
+{% include video id="Ze2VoWUNOkQ" provider="youtube" %}
 
 ## Reference List
 
