@@ -58,6 +58,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="Ze2VoWUNOkQ" provider="youtube" %}
 
+### Using Models in the browser with Huggingface.js
+
+{% include video id="0cWXGD9lxJ0" provider="youtube" %}
+
 ## Reference List
 
 - [Coursera: Open Source LLMOps Solutions](https://www.coursera.org/learn/open-source-llmops-solutions){:target='\_blank'}
