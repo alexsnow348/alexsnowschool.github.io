@@ -9,13 +9,13 @@ main:
   - title: "Lab"
     url: https://github.com/alexsnowschool
     target: "_blank"
-  # - title: "Podcast"
-  #   url: https://podcasters.spotify.com/pod/show/alexsnowschool
-  #   target: "_blank"
   - title: "Newsletter"
     url: https://alexsnowschool.substack.com/
     target: "_blank"
-  - title: "Consultation"
-    url: /consultation/
+  # - title: "Consultation"
+  #   url: /consultation/
+  #   target: "_blank"
+  - title: "Shop"
+    url: https://alexsnowschool.super.site/
     target: "_blank"
 
