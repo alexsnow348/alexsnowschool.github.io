@@ -57,3 +57,4 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 ## Reference List
 
 - [Rust Programming Specialization](https://www.coursera.org/specializations/rust-programming){:target='\_blank'}
+- [Rust Programming Fundamentals Code Repo](https://github.com/alexsnow348/rust-fundamentals){:target='\_blank'}
