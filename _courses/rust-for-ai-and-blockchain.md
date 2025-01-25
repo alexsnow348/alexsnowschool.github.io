@@ -48,11 +48,15 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 {% include video id="Z-hWyBR1cHo" provider="youtube" %}
 
-### Rust Fundamentals: Project structure, Loop, Control Flow
+### Project structure, Loop, Control Flow
 
 {% include video id="TeL3qdAjkw8" provider="youtube" %}
 
+## Week 2
 
+### Shadowing, Borrowing, Function
+
+{% include video id="88KpyLNk5BQ" provider="youtube" %}
 
 ## Reference List
 
