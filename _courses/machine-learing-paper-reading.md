@@ -40,7 +40,7 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 ### 🥬 Metric Learning
 
-#### FaceNet: A Unified Embedding for Face Recognition and Clustering
+#### 1. FaceNet: A Unified Embedding for Face Recognition and Clustering
 
 Face Recognition ကို စိတ်ဝင်စားသူတိုင်လေ့လာ သင့်တဲ့ paper လေဖြစ်လို့ အားလုံးအတွက် အကျိုးရှိအောင် ရှယ်ပေးလိုက်ပါတယ်။ 
 
@@ -95,3 +95,12 @@ Knowledge Distillation ဆိုင်ရာ သိသင့် သိထို�
 
 - [Explanation Slide](https://drive.google.com/file/d/1qoMhFWrcDK3jjOuWnv2863XeJwIs1bJ5/view?usp=drive_link){:target='_blank'}
 - [Original Paper](https://arxiv.org/abs/2006.05525){:target='_blank'}
+
+#### 2. Teacher training methods for better knowledge distillation
+
+Master Thesis အတွက် ပြောထားတဲ့ talk လေကိုပဲ စိတ်ဝင်စားသူများအတွက် အကျိုးရှိအောင်လို့ ရှယ်ပေးလိုက်ပါတယ်နော်။ 
+
+{% include video id="dHxk-yeaHKE" provider="youtube" %}
+
+- [Explanation Slide](https://drive.google.com/file/d/1oMxyuHzNCwLzYmsfUzGGenbfAX48albj/view?usp=sharing){:target='_blank'}
+  
